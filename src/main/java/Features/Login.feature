@@ -9,4 +9,4 @@ Then Close the browser
 Examples:
 	| username | password |
 	
-	| naveenk  | test@123 |
+	| naveenk  | test@125 |
